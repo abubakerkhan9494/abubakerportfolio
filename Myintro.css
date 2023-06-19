@@ -1,0 +1,116 @@
+nav{
+	width:24.38%;
+	height:400vh;
+	background-color:#441a00a3;
+	font-variant:small-caps;
+	float:left;
+	margin:0%;
+
+}
+h4{
+	font-size:200%;
+}
+p{
+	font-size:130%;
+}
+ul
+{
+	list-style-type: none;
+}
+.heat{
+	color:#ff0000;
+	font-size:150%;
+}
+
+.water1{
+	background-color:white;
+	font-size:125%;
+	margin:15%;
+	padding:5%;
+	text-align: center;
+
+
+}
+.water2{
+	background-color:orange;
+	font-size:125%;
+	margin:15%;
+	padding:5%;
+	text-align: center;
+}
+body{
+display:inline-table;
+}
+
+.water3{
+	background-color:white;
+	font-size:125%;
+	margin:15%;
+	padding:5%;
+	text-align: center;
+
+
+}
+.water4{
+	background-color:white;
+	font-size:125%;
+	margin:15%;
+	padding:5%;
+	text-align: center;
+
+
+}
+
+a{
+	text-decoration: none;
+
+}
+nav li a:hover{
+	font-size:130%;
+	color:#4fffff;
+
+}
+nav li a:active{
+	background-color:black;
+}
+span{
+	display:inline-table;
+	width:70%;
+	background-color: white;
+	margin:2%;
+}
+img{
+	width:45%;
+}
+
+div{
+	display:inline-block;
+	width:100%;
+	border-color:black;
+	border-width:3px;
+}
+#active{
+	display:inline-block;
+	width:80%;
+}
+#inactive{
+	display:inline-block;
+	width:80%;
+	position:relative;
+
+}
+#bigpic{
+	height:75%;
+	display:none;
+	width:75%;
+}
+summary{
+	font-size:200%;
+}
+footer a {
+	background-color:#0078829e;
+	padding:1%;
+	margin:5%;
+	font-size:150%;
+	width:18%;
+}

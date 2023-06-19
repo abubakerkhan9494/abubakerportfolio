@@ -1,0 +1,100 @@
+nav{
+	width:20%;
+	height:100vh;
+	background-color:#441a00a3;
+	font-variant:small-caps;
+	float:left;
+}
+span{
+	display:inline-table;
+	width:50%;
+	margin:2%;
+}
+img{
+	display:inline-table;
+	width:15%;
+	float:right;
+
+}
+ul
+{
+	list-style-type: none;
+}
+.heat{
+	color:#ff0000;
+	font-size:150%;
+}
+
+.water1{
+	background-color:orange;
+	font-size:125%;
+	margin:15%;
+	padding:5%;
+	text-align: center;
+
+
+}
+.water2{
+	background-color:white;
+	font-size:125%;
+	margin:15%;
+	padding:5%;
+	text-align: center;
+}
+body{
+display:inline-table;
+}
+
+.water3{
+	background-color:white;
+	font-size:125%;
+	margin:15%;
+	padding:5%;
+	text-align: center;
+
+
+}
+.water4{
+	background-color:white;
+	font-size:125%;
+	margin:15%;
+	padding:5%;
+	text-align: center;
+
+
+}
+
+a{
+	text-decoration: none;
+
+}
+a:hover{
+	font-size:130%;
+	color:#4fffff;
+
+}
+nav li a:active{
+	background-color:black;
+}
+span{
+	display:inline-table;
+	width:60%;
+	margin:2%;
+}
+.imp{
+	font-variant: small-caps;
+	font-size:150%;
+	font-family: Ariel,Times New Roman;
+}
+p{
+	font-size:200%;
+}
+
+footer a {
+	background-color:#0078829e;
+	padding:2%;
+	margin:2%;
+	font-size:175%;
+	width:18%;
+}
+
